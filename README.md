@@ -3,4 +3,4 @@ Este projeto consiste na integração entre Python e MySQL para a realização d
 ## Instalação
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/enka063/atividade-python-mysql.git
+   git clone https://github.com/enka063/atividade-python-mysql
